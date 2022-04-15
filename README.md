@@ -1,2 +1,5 @@
 # s5server
-Simple Socks5 Server
+A Simple Socks5 Server
+
+Base on https://github.com/armon/go-socks5
+
